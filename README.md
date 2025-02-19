@@ -1,4 +1,19 @@
 ![image](https://github.com/user-attachments/assets/3c01ef22-fff9-457a-b62b-947a28466c0f)# HEART-DISEASE-PREDICTION-USING-ML--ECG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This ECG Machine Learning (ML) model is designed to predict and analyze electrocardiogram (ECG) reports, aiding in the early detection of cardiovascular diseases. The model leverages deep learning techniques to classify ECG signals, detect abnormalities, and provide insights into heart health.
 
 LIST OF FIGURES AND GRAPH
