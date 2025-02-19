@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3c01ef22-fff9-457a-b62b-947a28466c0f)# HEART-DISEASE-PREDICTION-USING-ML--ECG
+
 
 
 
@@ -723,7 +723,7 @@ In conclusion, the heart disease prediction system developed in this project has
 
 
 
-
+![image](https://github.com/user-attachments/assets/3c01ef22-fff9-457a-b62b-947a28466c0f)# HEART-DISEASE-PREDICTION-USING-ML--ECG
 
 
 
